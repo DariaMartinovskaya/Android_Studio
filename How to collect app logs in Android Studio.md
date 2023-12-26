@@ -6,13 +6,13 @@
 #### 4. Connect the device to the laptop using USB
 #### 5. Select the device in Android Studio
 <div style="display:flex;">
-<img src="Screen_Android_Studio_Remote_device.jpg">
+<img src="Screens/Screen_Android_Studio_Remote_device.jpg">
 </div>
 
 #### 6. Select "LogCat" Tab in Android Studio
 #### 7. Reproduce the bug on the device or find it in logs 
 <div style="display:flex;">
-<img src="Screen_Android_Studio_ToDoList_Remote_device_logs.jpg">
+<img src="Screens/Screen_Android_Studio_ToDoList_Remote_device_logs.jpg">
 </div>
 
 #### 8. Select logs required and copy them 

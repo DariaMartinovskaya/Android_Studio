@@ -10,5 +10,5 @@
 
 #### 6. Select "LogCat" Tab in Android Studio
 #### 7. Reproduce the bug on the device or find it in logs 
-#### 8. Select logs needed and copy them 
+#### 8. Select logs required and copy them 
 #### 9. Create a .txt file, add logs into it and save

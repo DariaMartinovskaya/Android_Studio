@@ -11,5 +11,9 @@
 
 #### 6. Select "LogCat" Tab in Android Studio
 #### 7. Reproduce the bug on the device or find it in logs 
+<div style="display:flex;">
+<img src="Screen_Android_Studio_ToDoList_Remote_device_logs.jpg">
+</div>
+
 #### 8. Select logs required and copy them 
 #### 9. Create a .txt file, add logs into it and save

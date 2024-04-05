@@ -12,7 +12,7 @@ Android Studio, an emulator, which allows to build and run apps both on virtual 
 - install and add .apk files
 - view logs with Logcat, etc.
 
-<a href="https://developer.android.com/studio" target="_blank">Link</a> to download Android Studio
+<a href="https://developer.android.com/studio" target="_blank">Link</a> to download Android Studio.
 
 #### Here are results of ToDoList mobile app testing using Android studio emulator:
 

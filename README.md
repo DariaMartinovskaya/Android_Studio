@@ -2,7 +2,15 @@
 
 Android Studio is the official Integrated Development Environment (IDE) for Android app development. 
 
-In testing, Android Studio is an emulator 
+Android Studio, an emulator, which allows to build and run apps both on virtual and hardware devices. By means of Android Stiduo, we can use the following features in testing purposes:
+- create and manage android virtual devices
+- test on multiple screen sizes
+- emulate gestures and common actions
+- take screenshots
+- record the screen
+- use a camera
+- install and add .apk files
+- view logs with Logcat, etc.
 
 <a href="https://developer.android.com/studio" target="_blank">Link</a> to download Android Studio
 

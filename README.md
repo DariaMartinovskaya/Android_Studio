@@ -4,7 +4,7 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 
 In testing, Android Studio is an emulator 
 
-
+<a href="https://developer.android.com/studio" target="_blank">Link to download Android Studio</a>
 
 #### Here are results of ToDoList mobile app testing using Android studio emulator:
 

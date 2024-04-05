@@ -8,7 +8,8 @@ In testing, Android Studio is an emulator
 
 #### Here are results of ToDoList mobile app testing using Android studio emulator:
 
-Here is our app built in Android Studio using .apk file:
+Here is ToDoList app built in Android Studio using .apk file:
+
 <div>
 <a href="https://github.com/DariaMartinovskaya/Android_Studio/blob/main/Android_Studio_ToDoList_App_apk.png" target="_blank" rel="noreferrer"><img src="https://github.com/DariaMartinovskaya/Android_Studio/blob/main/Android_Studio_ToDoList_App_apk.png" alt="ToDoListapp" width="150"></a>
 

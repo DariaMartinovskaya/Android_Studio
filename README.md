@@ -4,7 +4,7 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 
 In testing, Android Studio is an emulator 
 
-<a href="https://developer.android.com/studio" target="_blank">Link to download Android Studio</a>
+<a href="https://developer.android.com/studio" target="_blank">Link</a> to download Android Studio
 
 #### Here are results of ToDoList mobile app testing using Android studio emulator:
 
@@ -13,6 +13,7 @@ Here is ToDoList app built in Android Studio using .apk file:
 <div style="display:flex;">
 <img src="Android_Studio_ToDoList_App_apk.png">
 </div>
+
 
 <a href="https://github.com/DariaMartinovskaya/Android_Studio/blob/main/App%20logs%20in%20Android%20Studio.md" target="_blank">Here</a> is a steps description how to collect app logs from a connected android device in Android Studio
 
